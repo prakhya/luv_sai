@@ -10,6 +10,7 @@ meta-*/
 !meta-skeleton
 !meta-selftest
 hob-image-*.bb
+/*.patch
 *.swp
 *.orig
 *.rej
